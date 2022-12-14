@@ -1,0 +1,10 @@
+{
+    "C_Cpp.codeAnalysis.clangTidy.checks.enabled": [
+        "cppcoreguidelines-*",
+        "clang-analyzer-core.*"
+    ],
+    "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+        "cppcoreguidelines-avoid-*"
+    ],
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true
+}
